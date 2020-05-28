@@ -4,4 +4,4 @@
 
 Скачать Swen.exe: https://github.com/swen-devel/Swen/releases
 
-Туторил Swen-tutorial.mp4: https://github.com/swen-devel/Swen/releases
+Туториал Swen-tutorial.mp4: https://github.com/swen-devel/Swen/releases
